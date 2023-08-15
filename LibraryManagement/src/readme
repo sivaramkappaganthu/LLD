@@ -1,0 +1,8 @@
+
+Factory Pattern for creating a book
+
+Observer pattern for notifying  users about availability, who searched for a book  and ended up in not finding
+
+Decorater patter for addining finctionality of Fines on top of Book lending
+
+Delegation pattern to delategate tasks. Librarian delagtes tasks of book issue to Book Item class

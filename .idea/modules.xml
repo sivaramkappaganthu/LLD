@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMMachine/ATMMachine.iml" filepath="$PROJECT_DIR$/ATMMachine/ATMMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmazonLockerService/AmazonLockerService.iml" filepath="$PROJECT_DIR$/AmazonLockerService/AmazonLockerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AmazonOnlineShopping/AmazonOnlineShopping.iml" filepath="$PROJECT_DIR$/AmazonOnlineShopping/AmazonOnlineShopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChessBoard/ChessBoard.iml" filepath="$PROJECT_DIR$/ChessBoard/ChessBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceBook/FaceBook.iml" filepath="$PROJECT_DIR$/FaceBook/FaceBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelManagementSystem/HotelManagementSystem.iml" filepath="$PROJECT_DIR$/HotelManagementSystem/HotelManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" filepath="$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeetingScheduler/MeetingScheduler.iml" filepath="$PROJECT_DIR$/MeetingScheduler/MeetingScheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieTicketBookingSystem/MovieTicketBookingSystem.iml" filepath="$PROJECT_DIR$/MovieTicketBookingSystem/MovieTicketBookingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackOverFlow/StackOverFlow.iml" filepath="$PROJECT_DIR$/StackOverFlow/StackOverFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockBrokerageSystem/StockBrokerageSystem.iml" filepath="$PROJECT_DIR$/StockBrokerageSystem/StockBrokerageSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
+    </modules>
+  </component>
+</project>
